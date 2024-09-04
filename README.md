@@ -1,7 +1,13 @@
 ## This is my cpp practise repository
 
-[cpp practise link](https://www.geeksforgeeks.org/cpp-programming-examples/)
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191113115600/DatatypesInC.png">
+
+
+[cpp practise link](https://www.geeksforgeeks.org/cpp-programming-examples/) |
 [cpp reference](https://www.geeksforgeeks.org/c-plus-plus/)
+
+[BEST Website For Learning CPP From Beginners To Adnvaced](https://www.learncpp.com/)
+
 
 
 | Date | Topic | Difficulty | Resources | Notes |
