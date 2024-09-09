@@ -16,5 +16,5 @@
 | 2024-09-03 | Functions and Parameters | Basic | [C++ Functions (geeks for geeks)](https://www.geeksforgeeks.org/functions-in-cpp/) | Done |
 | 2024-09-04 | Pointers and References | Intermediate | [C++ Pointers (geeksforgeeks.org)](https://www.geeksforgeeks.org/pointers-in-c-and-c/) |Done |
 | 2024-09-05 | Object-Oriented Programming | Intermediate | [C++ Classes (w3schools.com)](https://www.w3schools.com/cpp/cpp_classes.asp) | Done |
-| 2024-09-06 | Templates | Advanced | [C++ Templates (cppreference.com)](https://en.cppreference.com/w/cpp/language/templates) | |
+| 2024-09-06 | Templates | Advanced | [C++ Templates (cppreference.com)](https://en.cppreference.com/w/cpp/language/templates) | Done |
 | 2024-09-07 | STL Containers | Advanced | [C++ STL Containers (geeksforgeeks.org)](https://www.geeksforgeeks.org/containers-cpp-stl/) | Running |
